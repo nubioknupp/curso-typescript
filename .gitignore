@@ -118,3 +118,6 @@ nbproject
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Ignorar os arquivo js gerado pelo TypeScript
+js/*
